@@ -297,7 +297,7 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 604d114990ca92d41b40f84a57564318, type: 2}
   m_IsPrefabAsset: 0
---- !u!1001 &1084467331
+--- !u!1001 &1303988944
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -335,21 +335,6 @@ Prefab:
     - target: {fileID: 4795305031683544, guid: 7af991ae0f3945c4dac1a3c3e539269a, type: 2}
       propertyPath: m_RootOrder
       value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 54851845988408314, guid: 7af991ae0f3945c4dac1a3c3e539269a,
-        type: 2}
-      propertyPath: m_Constraints
-      value: 56
-      objectReference: {fileID: 0}
-    - target: {fileID: 54851845988408314, guid: 7af991ae0f3945c4dac1a3c3e539269a,
-        type: 2}
-      propertyPath: m_Drag
-      value: 0.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 114139981976277124, guid: 7af991ae0f3945c4dac1a3c3e539269a,
-        type: 2}
-      propertyPath: rcsThrust
-      value: 250
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7af991ae0f3945c4dac1a3c3e539269a, type: 2}
